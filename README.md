@@ -6,3 +6,5 @@ Great if you wanna look like a hacker since the program can have a random delay 
 
 Doesn't really have a reason to exist, just thought i would give myself a challenge by developing this.
 Use my code however you may.
+
+The documentation is in `README.py`.
